@@ -11,6 +11,3 @@
 ![Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neto1919&size_weight=0.5&count_weight=0.5)
-
-![](https://github.com/neto1919/neto1919/blob/output/github-contribution-grid-snake.svg)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=neto1919&repo=neto1919&theme=react)](https://github.com/neto1919/neto1919)
